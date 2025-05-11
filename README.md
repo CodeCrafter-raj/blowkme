@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blowkme
+- 👋 Hi, I’m Raj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development projects
